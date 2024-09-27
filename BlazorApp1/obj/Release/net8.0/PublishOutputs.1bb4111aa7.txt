@@ -1,0 +1,7 @@
+C:\Users\Shekar.Kadinolla\source\repos\BlazorApp1\obj\Release\net8.0\PubTmp\Out\BlazorApp1.exe
+C:\Users\Shekar.Kadinolla\source\repos\BlazorApp1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Shekar.Kadinolla\source\repos\BlazorApp1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Shekar.Kadinolla\source\repos\BlazorApp1\obj\Release\net8.0\PubTmp\Out\BlazorApp1.dll
+C:\Users\Shekar.Kadinolla\source\repos\BlazorApp1\obj\Release\net8.0\PubTmp\Out\BlazorApp1.deps.json
+C:\Users\Shekar.Kadinolla\source\repos\BlazorApp1\obj\Release\net8.0\PubTmp\Out\BlazorApp1.runtimeconfig.json
+C:\Users\Shekar.Kadinolla\source\repos\BlazorApp1\obj\Release\net8.0\PubTmp\Out\BlazorApp1.pdb
